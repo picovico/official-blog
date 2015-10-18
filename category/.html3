@@ -89,10 +89,10 @@
    </section>
    <section class="container page-content" >
       <hr class="vertical-space2">
-      <section class="col-md-8">
+      <section class="col-md-9">
  <h2 class="page_title">Articles dans la catégorie «»</h2>
  
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="picovio web cta call to action premium how-to knowledge base ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -116,7 +116,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="picovio web announcement release logo ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -138,7 +138,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -155,7 +155,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -172,7 +172,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="content collaboration picovico rotaract ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -194,7 +194,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -211,7 +211,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -228,14 +228,15 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="slideshow maker style blinds release ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
                     <h6 class="blog-cat"><strong>in</strong> 
                         <a href="http://blog.picovico.com/tag/slideshow-maker.html" title="View all posts in Slideshow Maker">Slideshow Maker</a>
-,                         <a href="http://blog.picovico.com/tag/style.html" title="View all posts in style">style</a>
+,                         <a href="http://blog.picovico.com/tag/style.html" title="View all posts in Style">Style</a>
 ,                         <a href="http://blog.picovico.com/tag/blinds.html" title="View all posts in Blinds">Blinds</a>
+,                         <a href="http://blog.picovico.com/tag/release.html" title="View all posts in Release">Release</a>
                   <!-- <h6 class="blog-comments"> No Comments </h6> -->
                </div>
                <h6 class="blog-date"><span>6 </span>March 2015</h6>      <h3>
@@ -249,7 +250,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="release feature yearbook style 2015 ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -272,7 +273,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="picovico christmas themes new themes ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -294,7 +295,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="picovico holidays android update ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -315,7 +316,7 @@
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photo-video slideshow slideshow maker father dad parent ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -332,14 +333,14 @@
          <a href="happy-fathers-day.html" rel="bookmark" title="Picovico Blog - Happy Father's Day">Happy Father's Day</a>
       </h3>
       <div class="summary" >
-   			<p>A father’s love matter as much to a child as the mother’s care does. We may call him dad, or old man, or simply father… we may call him by any name in our own dialects, and they all signify the special place he holds in our lives. He can be a daughter’s best buddy and a son’s real life hero. A mothe...</p>
+   			<p>A father’s love matter as much to a child as the mother’s care does. We may call him dad, or old man, or simply father… we may call him by any name in our own dialects, and they all signify the special place he holds in our lives. He can be a daughter’s best buddy and a son’s real life hero. A mother’s care is always protective. She wants us to be forever careful for our own good. But a father’s c...</p>
          <a class="readmore" href="http://blog.picovico.com/happy-fathers-day.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/happy-fathers-day.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photo-video slideshow slideshow maker ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -353,14 +354,14 @@
          <a href="picovico-gets-featured-in-pandodaily.html" rel="bookmark" title="Picovico Blog - Picovico gets featured in PandoDaily">Picovico gets featured in PandoDaily</a>
       </h3>
       <div class="summary" >
-   			<p>"They realized they had no option other than to try to provide something different. So Modi and Sapkota worked on making the product as fast as possible, and have now got the video-rendering process down to 15 seconds for a 30-second video. Speed is now Picovico’s chief selling point." Read more abo...</p>
+   			<p>"They realized they had no option other than to try to provide something different. So Modi and Sapkota worked on making the product as fast as possible, and have now got the video-rendering process down to 15 seconds for a 30-second video. Speed is now Picovico’s chief selling point." Read more about what Hamish Mckenzie, a reporter for PandoDaily said about Picovico in a special coverage by Pand...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-gets-featured-in-pandodaily.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-gets-featured-in-pandodaily.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="google googleio io13 ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -372,14 +373,14 @@
          <a href="google-io-2013-extended-to-be-held-in-kathmandu.html" rel="bookmark" title="Picovico Blog - Google I/O 2013 Extended to be Held in Kathmandu">Google I/O 2013 Extended to be Held in Kathmandu</a>
       </h3>
       <div class="summary" >
-   			<p>Every year in San Francisco, Google organizes an event entirely focused on the developer. The event started in 2008 was named as Google I/O where "I" and "O" stand for input/output, and "Innovation in the Open". Google I/O features highly technical, in-depth sessions focused on building web, mobile,...</p>
+   			<p>Every year in San Francisco, Google organizes an event entirely focused on the developer. The event started in 2008 was named as Google I/O where "I" and "O" stand for input/output, and "Innovation in the Open". Google I/O features highly technical, in-depth sessions focused on building web, mobile, and enterprise applications with Google and open web technologies such as Android, Chrome, Chrome O...</p>
          <a class="readmore" href="http://blog.picovico.com/google-io-2013-extended-to-be-held-in-kathmandu.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/google-io-2013-extended-to-be-held-in-kathmandu.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="mother's day gift photo-video slideshow slideshow maker mother photos to videos special ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -398,14 +399,14 @@
          <a href="make-this-mothers-day-more-special-with-picovico.html" rel="bookmark" title="Picovico Blog - Make this Mother's Day a memorable one with an equally memorable video">Make this Mother's Day a memorable one with an equally memorable video</a>
       </h3>
       <div class="summary" >
-   			<p>Every mother is so special, for reasons that we cannot count, for times that will keep on coming as long as we live, for she is the most beautiful blessing bestowed upon us. “Mom” always gives tender love, care and warmth. She teaches us the value of life; she makes us know what it means to love and...</p>
+   			<p>Every mother is so special, for reasons that we cannot count, for times that will keep on coming as long as we live, for she is the most beautiful blessing bestowed upon us. “Mom” always gives tender love, care and warmth. She teaches us the value of life; she makes us know what it means to love and to be loved. Mom does a lot of things that we don’t even notice every day. She goes through our cra...</p>
          <a class="readmore" href="http://blog.picovico.com/make-this-mothers-day-more-special-with-picovico.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/make-this-mothers-day-more-special-with-picovico.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="mother's day gift photo-video slideshow slideshow maker mother photos to videos special ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -424,14 +425,14 @@
          <a href="the-most-unique-mothers-day-gift.html" rel="bookmark" title="Picovico Blog - The Most Unique Mother's Day Gift">The Most Unique Mother's Day Gift</a>
       </h3>
       <div class="summary" >
-   			<p>Hah.. Hope this doesn't happen to you. Mother’s day is approaching and we all hope to bring the most unique gift for our mothers. But it seems, things doesn't turn out as we think it to be. Why not try something at which we cannot fail. Infusing your gift with your personality will assure that, won’...</p>
+   			<p>Hah.. Hope this doesn't happen to you. Mother’s day is approaching and we all hope to bring the most unique gift for our mothers. But it seems, things doesn't turn out as we think it to be. Why not try something at which we cannot fail. Infusing your gift with your personality will assure that, won’t it? Do something more thoughtful this time to make her feel special. Create a personalized video o...</p>
          <a class="readmore" href="http://blog.picovico.com/the-most-unique-mothers-day-gift.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/the-most-unique-mothers-day-gift.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photo-video slideshow slideshow maker gec2013 innovation ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -447,14 +448,14 @@
          <a href="picovico-at-the-global-entrepreneurship-congress-2013.html" rel="bookmark" title="Picovico Blog - Picovico at the Global Entrepreneurship Congress 2013">Picovico at the Global Entrepreneurship Congress 2013</a>
       </h3>
       <div class="summary" >
-   			<p>Initiated in United States by Ewing Marion Kauffman Foundation in March 2009 by bringing together host organizations from about 60 countries, Global Entrepreneurship Congress 2013 is a congregation of innovative minds from various startups ranging across number of disciplines. The event brings toget...</p>
+   			<p>Initiated in United States by Ewing Marion Kauffman Foundation in March 2009 by bringing together host organizations from about 60 countries, Global Entrepreneurship Congress 2013 is a congregation of innovative minds from various startups ranging across number of disciplines. The event brings together entrepreneurs, investors, researchers, thought leaders and policymakers with the purpose of shar...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-at-the-global-entrepreneurship-congress-2013.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-at-the-global-entrepreneurship-congress-2013.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photo-video slideshow slideshow maker patrick fun parade ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -471,14 +472,14 @@
          <a href="celebrate-st-patricks-day-with-picovico.html" rel="bookmark" title="Picovico Blog - Celebrate St. Patrick's Day with Picovico">Celebrate St. Patrick's Day with Picovico</a>
       </h3>
       <div class="summary" >
-   			<p>What comes to your mind when we say “St. Patrick’s Day”? - The color green, gold, shamrocks and luck. Dance, music, Irish food and drinks; whatever you do on this day must be fun. Green-gold is the theme, so go green otherwise you will be pinched ;) Memories of getting drunk, trying Irish food, danc...</p>
+   			<p>What comes to your mind when we say “St. Patrick’s Day”? - The color green, gold, shamrocks and luck. Dance, music, Irish food and drinks; whatever you do on this day must be fun. Green-gold is the theme, so go green otherwise you will be pinched ;) Memories of getting drunk, trying Irish food, dancing to a local Irish song, and making friends during celebration lasts for a lifetime. Obviously, yo...</p>
          <a class="readmore" href="http://blog.picovico.com/celebrate-st-patricks-day-with-picovico.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/celebrate-st-patricks-day-with-picovico.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photo-video slideshow slideshow maker powerpoint presentation slides ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -495,14 +496,14 @@
          <a href="picovico-video-presentation-tools.html" rel="bookmark" title="Picovico Blog - Picovico Videos as Strong Presentation Tools">Picovico Videos as Strong Presentation Tools</a>
       </h3>
       <div class="summary" >
-   			<p>Powerpoint presentation tools is taken as an effective tool for presenting your ideas. Its convenient and easy to use too. But then, sometimes it gets so boring with the use of just bullets and pointers. How about adding a video to your presentation. Its a great presentation tools to grab attention ...</p>
+   			<p>Powerpoint presentation tools is taken as an effective tool for presenting your ideas. Its convenient and easy to use too. But then, sometimes it gets so boring with the use of just bullets and pointers. How about adding a video to your presentation. Its a great presentation tools to grab attention and also a good place to include lots of pictures. You can use videos from Picovico to add in that e...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-video-presentation-tools.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-video-presentation-tools.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="video slideshow maker how-to video-making ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -517,14 +518,14 @@
          <a href="how-to-make-a-video.html" rel="bookmark" title="Picovico Blog - How to make a video using Picovico">How to make a video using Picovico</a>
       </h3>
       <div class="summary" >
-   			<p>One always loves to click or get clicked, and at the end of the day when we look behind we are left with a set of photos as a reservoir of our memories. But have we ever felt that these captured moments are actually missing their livelihood? As by simply seeing those pictures one can’t get a clear p...</p>
+   			<p>One always loves to click or get clicked, and at the end of the day when we look behind we are left with a set of photos as a reservoir of our memories. But have we ever felt that these captured moments are actually missing their livelihood? As by simply seeing those pictures one can’t get a clear picture of the story behind it. And here comes Picovico; a perfect solution to relive your moments. P...</p>
          <a class="readmore" href="http://blog.picovico.com/how-to-make-a-video.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/how-to-make-a-video.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="slideshow valentine love celebration slideshow maker february ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -541,14 +542,14 @@
          <a href="this-valentines-day-say-it-the-picovico-way.html" rel="bookmark" title="Picovico Blog - This Valentine's Day Say It The Picovico Way">This Valentine's Day Say It The Picovico Way</a>
       </h3>
       <div class="summary" >
-   			<p>Have you thought about what your gift is going to be for your beloved one this Valentine’s day? Are chocolates, teddy bears and roses going to be enough? This could be very well be a big question mark for most of us! You try and want to be different every time on such occasions, anxious enough to lo...</p>
+   			<p>Have you thought about what your gift is going to be for your beloved one this Valentine’s day? Are chocolates, teddy bears and roses going to be enough? This could be very well be a big question mark for most of us! You try and want to be different every time on such occasions, anxious enough to look out for that special way to impress your someone special. Nevertheless, it ends up with same ol' ...</p>
          <a class="readmore" href="http://blog.picovico.com/this-valentines-day-say-it-the-picovico-way.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/this-valentines-day-say-it-the-picovico-way.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photos memories photo-video slideshow merry christmas holidays christmas celebration ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -566,14 +567,14 @@
          <a href="merry-christmas-and-happy-holidays.html" rel="bookmark" title="Picovico Blog - Merry Christmas and Happy Holidays!!!">Merry Christmas and Happy Holidays!!!</a>
       </h3>
       <div class="summary" >
-   			<p>"Christmas waves a magic wand over this world, and behold, everything is softer and more beautiful.” ~ Norman Vincent Peale The yuletide season has begun and the air is filled with Christmas and celebrations. It’s the season of holidays, parties, hangouts, exchanging gifts. And before you get dissol...</p>
+   			<p>"Christmas waves a magic wand over this world, and behold, everything is softer and more beautiful.” ~ Norman Vincent Peale The yuletide season has begun and the air is filled with Christmas and celebrations. It’s the season of holidays, parties, hangouts, exchanging gifts. And before you get dissolved in this celebratory air, we at Picovico wanna thank you for being with us in the journey, with a...</p>
          <a class="readmore" href="http://blog.picovico.com/merry-christmas-and-happy-holidays.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/merry-christmas-and-happy-holidays.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photos spanish japanese espanol videos startup chile chile santiago photo-video slideshow ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -594,14 +595,14 @@
          <a href="picovico-speaks-espanol-and-japanese.html" rel="bookmark" title="Picovico Blog - Picovico now available in Espanol and Japanese.">Picovico now available in Espanol and Japanese.</a>
       </h3>
       <div class="summary" >
-   			<p>Picovico is all about Expression and in what language can you express better than your own. Picovico had moved to Santiago as a part of Startup Chile 2 months ago with bigger dreams and hopes. And we were overwhelmed by the exquisite beauty of this place and people around, the moment we arrived. We ...</p>
+   			<p>Picovico is all about Expression and in what language can you express better than your own. Picovico had moved to Santiago as a part of Startup Chile 2 months ago with bigger dreams and hopes. And we were overwhelmed by the exquisite beauty of this place and people around, the moment we arrived. We see that everyone here cherish the beauty of their country, love taking photos and Bingo! As we expe...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-speaks-espanol-and-japanese.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-speaks-espanol-and-japanese.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photo-video slideshow slideshow maker photography video maker ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -617,14 +618,14 @@
          <a href="from-photo-to-video-mode.html" rel="bookmark" title="Picovico Blog - From Photo to Video Mode">From Photo to Video Mode</a>
       </h3>
       <div class="summary" >
-   			<p>Recently we got covered in India’s leading national daily “The Hindu”. Here is an excerpt: Most photo-sharing sites are about simple uploads of photos. But PicoVico (www.picovico.com) promises a difference. Here you can use your photos to create video slideshows. It is created by young entrepreneurs...</p>
+   			<p>Recently we got covered in India’s leading national daily “The Hindu”. Here is an excerpt: Most photo-sharing sites are about simple uploads of photos. But PicoVico (www.picovico.com) promises a difference. Here you can use your photos to create video slideshows. It is created by young entrepreneurs Manish Modi and Suraj Sapkota. Picovico.com came about when they realized that waiting for photos t...</p>
          <a class="readmore" href="http://blog.picovico.com/from-photo-to-video-mode.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/from-photo-to-video-mode.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="start-up chile press santigo startup ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -639,14 +640,14 @@
          <a href="picovico-is-now-a-part-of-start-up-chile.html" rel="bookmark" title="Picovico Blog - Picovico is now a part of "Start-Up Chile"">Picovico is now a part of "Start-Up Chile"</a>
       </h3>
       <div class="summary" >
-   			<p>We are so excited to share with you this good news - we are now a part of startup chile. Yea, Picovico has been selected for Start-Up Chile’s fifth generation. Start-up Chile is a program created by the Govt. of Chile that seeks to attract high-potential entrepreneurs to bootstrap their startups in ...</p>
+   			<p>We are so excited to share with you this good news - we are now a part of startup chile. Yea, Picovico has been selected for Start-Up Chile’s fifth generation. Start-up Chile is a program created by the Govt. of Chile that seeks to attract high-potential entrepreneurs to bootstrap their startups in Chile, using it as a platform to go global. Hailing from 37 nations,101 teams were selected from a v...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-is-now-a-part-of-start-up-chile.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-is-now-a-part-of-start-up-chile.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="video story ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -659,14 +660,14 @@
          <a href="have-a-story-express.html" rel="bookmark" title="Picovico Blog - Have a Story? - Express">Have a Story? - Express</a>
       </h3>
       <div class="summary" >
-   			<p>Expression is the soul & language of mankind and the essence of human heart. Life is devoid of charm, sweetness and that tenderness of love without expressing our feelings. And hence we, at Picovico, intend to make this world diabetic with the sweetness of expression spreading like an epidemic. We v...</p>
+   			<p>Expression is the soul & language of mankind and the essence of human heart. Life is devoid of charm, sweetness and that tenderness of love without expressing our feelings. And hence we, at Picovico, intend to make this world diabetic with the sweetness of expression spreading like an epidemic. We vouch that there will be no lines of territories and region beholding it. YES, the world should fall ...</p>
          <a class="readmore" href="http://blog.picovico.com/have-a-story-express.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/have-a-story-express.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="mother's day gift memories ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -680,14 +681,14 @@
          <a href="a-gift-for-your-mom.html" rel="bookmark" title="Picovico Blog - A Gift for your Mom">A Gift for your Mom</a>
       </h3>
       <div class="summary" >
-   			<p>Every Child is special...but, ‘so is every mother’. Regardless of the amount of money you accumulate, the height of success you attain, or the fame that your name earns, you will always remain your mom’s child, and you will remain indebted to her for all the love she gave you, for all the blessings ...</p>
+   			<p>Every Child is special...but, ‘so is every mother’. Regardless of the amount of money you accumulate, the height of success you attain, or the fame that your name earns, you will always remain your mom’s child, and you will remain indebted to her for all the love she gave you, for all the blessings she showered upon you, for all the sacrifices she made for you. A mother plays myriad of roles in ou...</p>
          <a class="readmore" href="http://blog.picovico.com/a-gift-for-your-mom.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/a-gift-for-your-mom.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="photos upload gpu ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -701,14 +702,14 @@
          <a href="10000-photos-upload.html" rel="bookmark" title="Picovico Blog - 10,000+ Photos Upload">10,000+ Photos Upload</a>
       </h3>
       <div class="summary" >
-   			<p>Update 05/01/2013: More than 300,000 photo uploads. :) :D Picovico reaches the milestone of 10k photos upload in just 2 weeks of launching. We are really happy to see this tremendous response and can already sense the big wave of photos coming in. It has definitely added a new energy to Picovico and...</p>
+   			<p>Update 05/01/2013: More than 300,000 photo uploads. :) :D Picovico reaches the milestone of 10k photos upload in just 2 weeks of launching. We are really happy to see this tremendous response and can already sense the big wave of photos coming in. It has definitely added a new energy to Picovico and we are excited to bring in some cool features that would enhance your experience of video making. W...</p>
          <a class="readmore" href="http://blog.picovico.com/10000-photos-upload.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/10000-photos-upload.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="facebook youtube social-video export ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -723,14 +724,14 @@
          <a href="let-your-video-go-social.html" rel="bookmark" title="Picovico Blog - Let your video go social!">Let your video go social!</a>
       </h3>
       <div class="summary" >
-   			<p>Since the release of Picovico two weeks back, we have seen tremendous response from users. We have seen a lot of interest, received a lot of queries, and a lot of encouragement. Innovation is a process. Million thanks to all our users who are constantly helping us upgrade our product. Over the past ...</p>
+   			<p>Since the release of Picovico two weeks back, we have seen tremendous response from users. We have seen a lot of interest, received a lot of queries, and a lot of encouragement. Innovation is a process. Million thanks to all our users who are constantly helping us upgrade our product. Over the past two weeks, we received a lot of e-mails asking us if the Picovico videos could be exported to Youtub...</p>
          <a class="readmore" href="http://blog.picovico.com/let-your-video-go-social.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/let-your-video-go-social.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="picovico startup slideshow maker feature photo-sharing trends entrepreneurs business ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -749,14 +750,14 @@
          <a href="picovico-gets-featured-on-yourstory-in.html" rel="bookmark" title="Picovico Blog - Picovico gets featured on Yourstory.in">Picovico gets featured on Yourstory.in</a>
       </h3>
       <div class="summary" >
-   			<p>It feels great when one gets recognized for the effort and hard work one puts in his/her work. We felt the same when Picovico was featured in India’s leading online platform for entrepreneurs - Yourstory.in. The article mainly speaks about how Picovico was created and got selected for The Morpheus V...</p>
+   			<p>It feels great when one gets recognized for the effort and hard work one puts in his/her work. We felt the same when Picovico was featured in India’s leading online platform for entrepreneurs - Yourstory.in. The article mainly speaks about how Picovico was created and got selected for The Morpheus Ventures. The article also talks about the trends in photo sharing on Social Media and how Picovico i...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-gets-featured-on-yourstory-in.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-gets-featured-on-yourstory-in.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="release beta ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -769,14 +770,14 @@
          <a href="picovico-public-beta-release.html" rel="bookmark" title="Picovico Blog - Public Beta Release">Public Beta Release</a>
       </h3>
       <div class="summary" >
-   			<p>"If a picture is worth a thousand words, then a video must be worth millions of words". This has been our motto at Picovico ever since it was conceived. Finally after almost a year of restless development we are pleased to announce the public beta release of www.picovico.com. Picovico is a cloud bas...</p>
+   			<p>"If a picture is worth a thousand words, then a video must be worth millions of words". This has been our motto at Picovico ever since it was conceived. Finally after almost a year of restless development we are pleased to announce the public beta release of www.picovico.com. Picovico is a cloud based video creation platform. It takes a set of images, blends it with the music and produces a beauti...</p>
          <a class="readmore" href="http://blog.picovico.com/picovico-public-beta-release.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/picovico-public-beta-release.html">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article> 
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="facebook facebook app photos video image share youtube ">
    <div class="col-md-11 omega">
                 <div class="postmetadata">
                   <h6 class="blog-author"><strong>by</strong> Picovico</h6>
@@ -794,7 +795,7 @@
          <a href="introducing-picovico.html" rel="bookmark" title="Picovico Blog - Introducing Picovico">Introducing Picovico</a>
       </h3>
       <div class="summary" >
-   			<p>There is nothing like joy of sharing photographs online. Last night’s dinner, cousins birthday bash, parents dance-in together, or the band’s concert- don’t we share everything. And why not? One can tag friends and the moments, get comments from everywhere, envy few friends and make statement on the...</p>
+   			<p>There is nothing like joy of sharing photographs online. Last night’s dinner, cousins birthday bash, parents dance-in together, or the band’s concert- don’t we share everything. And why not? One can tag friends and the moments, get comments from everywhere, envy few friends and make statement on the web-social world. We intend to take this marvel experience to next level by introducing our latest ...</p>
          <a class="readmore" href="http://blog.picovico.com/introducing-picovico.html">Read More</a>
       </div>
       <!-- <a class="readmore" href="http://blog.picovico.com/introducing-picovico.html">Read More</a> -->
@@ -833,7 +834,7 @@
          <div class="vertical-space3"></div>
       </section> <!-- end-main-content -->
       
-      <aside class="col-md-3 col-md-offset-1 sidebar"> 
+      <aside class="col-md-3 sidebar"> 
 
 <aside id="sidebar">
 
